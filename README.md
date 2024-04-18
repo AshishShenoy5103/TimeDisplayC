@@ -17,7 +17,9 @@ To compile and run the program, follow these steps:
 
 ## Example Output
 Here is an example of the program's output:
+```
 Current time: 2024-04-18 13:14:34
+```
 
 ## License
 This program is licensed under the [MIT License](LICENSE).
